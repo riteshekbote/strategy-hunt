@@ -1,0 +1,11 @@
+# Strategy/MicroStrategy bug bounty — seed scope
+# AUTHENTICATED test env (login with Gmail OIDC, shared env, wiped periodically):
+bugbounty.cloud.microstrategy.com
+# Strategy-owned web domains / products published at community.microstrategy.com/s/products
+strategy.com
+software.strategy.com
+community.strategy.com
+www.microstrategy.com
+microstrategy.com
+demo.microstrategy.com
+# EXCLUDED: demo.microstrategy.com (explicitly out of scope)

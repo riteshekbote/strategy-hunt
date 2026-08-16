@@ -1,0 +1,88 @@
+programs:
+  strategy:
+    name: Strategy (MicroStrategy) Bug Bounty Program
+    disclosure_policy: https://software.strategy.com/go/report-a-strategy-product-vulnerability
+    contact: "https://share.microstrategy.com/filedrop/vulnerabilityreporting"  # filedrop portal
+    targets:
+      - bugbounty.cloud.microstrategy.com   # AUTHENTICATED test env provided
+      - "*.cloud.microstrategy.com"
+      - "*.microstrategy.com"               # Strategy-owned web domains
+      - software.strategy.com
+      - community.strategy.com
+      - strategy.com
+    authenticated_envs:
+      library: https://bugbounty.cloud.microstrategy.com/MicroStrategyLibrary/
+      web: https://bugbounty.cloud.microstrategy.com/MicroStrategy/
+      login: "Gmail OIDC (own account + space; shared env, wiped periodically)"
+    rewards: "CVSS v4.0: Critical 9.0-10.0=$500-2000, High 7.0-8.9=$500-1000, Medium 4.0-6.9=$200-500, Low 0.1-3.9=$20-200. PayPal."
+
+rules:
+  # AUTHENTICATED testing explicitly allowed + encouraged (they provide the env).
+  # Login with Gmail OIDC. Shared environment — own account + own space only.
+  # Data in the test env is wiped periodically. No prod data access, no pivoting
+  # into internal Strategy systems, no mass account creation.
+  authenticated_testing_allowed: true
+  own_account_only: true
+  no_mass_account_creation: true
+  no_internal_pivoting: true    # "Internal pivoting, scanning, exploiting, exfiltrating internal Strategy systems" = prohibited
+  no_data_modification: true    # no destruction/alteration of Strategy data beyond minimal proof
+  no_denial_of_service: true
+  no_social_engineering: true
+  no_pre_disclosure: true
+  no_ai_generated_reports: true  # "Unverified AI-generated vulnerability reports" are excluded
+  redact_secrets_in_commits: true
+
+# Strategy EXCLUSIONS (long list — do not spend cycles, do not report)
+rejected_classes:
+  - "EoL / unsupported software"
+  - "HTML injection / Self-XSS"
+  - "Open redirects"
+  - "Missing cookie flags / Secure / HttpOnly"
+  - "SSL/TLS best practices, cert pinning / HSTS lack"
+  - "Information disclosures"
+  - "Mixed content warnings"
+  - "DoS / DDoS"
+  - "Host header / banner grabbing"
+  - "Clickjacking / UI redressing / tapjacking / tabnabbing (w/o sensitive actions)"
+  - "Missing CSRF token; login/logout/unauthenticated/low-impact CSRF"
+  - "Non-Strategy applications/assets unless Strategy-modified"
+  - "Missing security headers not leading to a vuln"
+  - "Internal pivoting/scanning/exfiltration"
+  - "MITM / physical access"
+  - "CSV injection w/o demonstrated vuln"
+  - "Content spoofing / text injection w/o attack vector"
+  - "Account/email enumeration"
+  - "Reflected file download"
+  - "Incomplete/missing SPF/DKIM"
+  - "Physical/social engineering"
+  - "Automated tool/scanner results"
+  - "Recently disclosed 0-days"
+  - "Autocomplete attribute"
+  - "CVEs affecting outdated browsers/platforms"
+  - "Using unreported vulns to find other bugs"
+  - "Self-exploitation (password reset links, cookie reuse)"
+  - "Networking protocols / industry standards issues"
+  - "XSS in third-party Flash"
+  - "Known-vulnerable library without exploitability proof"
+  - "Verbose error pages w/o exploitability"
+  - "Brute force attacks"
+  - "XSS in HTML containers"
+  - "Broken link hijacking"
+  - "Publicly accessible files/dirs (.htaccess, robots.txt)"
+  - "Third-party services/components"
+  - "Software version disclosure w/o POE"
+  - "Lack of rate-limiting"
+  - "demo.microstrategy.com"   # explicitly excluded host
+  - "Unverified AI-generated vulnerability reports"
+
+# What PAYS: real exploitable issues in Strategy software (MicroStrategy BI platform:
+# Library, Web, Intelligence Server, mobile, REST API) demonstrated on the provided
+# authenticated env. Historical MSTR classes: SQLi, XSS, path traversal, deserialization,
+# auth bypass, IDOR on reports/dashboards, session issues.
+
+models:
+  - { id: opencode/big-pickle, name: bigpickle }
+  - { id: opencode/nemotron-3-ultra-free, name: nemotron3 }
+  - { id: opencode/longcat-2.0-free, name: longcat }
+  - { id: opencode/ling-3.0-flash-free, name: ling3 }
+  - { id: opencode/laguna-s-2.1-free, name: laguna }
