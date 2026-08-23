@@ -1,1 +1,154 @@
-[]
+[
+ {
+  "url": "https://strategy.com/_next/static/chunks/polyfills-42372ed130431b0a.js",
+  "status": "done"
+ },
+ {
+  "url": "https://cdn.cookielaw.org/scripttemplates/otSDKStub.js",
+  "status": "done"
+ },
+ {
+  "url": "https://strategy.com/_next/static/chunks/webpack-16aa9dcec18a8d4e.js",
+  "status": "done"
+ },
+ {
+  "url": "https://strategy.com/_next/static/chunks/framework-945b357d4a851f4b.js",
+  "status": "done"
+ },
+ {
+  "url": "https://strategy.com/_next/static/chunks/main-664db44e294ef286.js",
+  "status": "done"
+ },
+ {
+  "url": "https://strategy.com/_next/static/chunks/pages/_app-299ae8606b3e994b.js",
+  "status": "done"
+ },
+ {
+  "url": "https://strategy.com/_next/static/chunks/5930-96532bec1e734763.js",
+  "status": "done"
+ },
+ {
+  "url": "https://strategy.com/_next/static/chunks/6191-bbc03115d87714e8.js",
+  "status": "done"
+ },
+ {
+  "url": "https://strategy.com/_next/static/chunks/323-e2e12b29666cd2b7.js",
+  "status": "done"
+ },
+ {
+  "url": "https://strategy.com/_next/static/chunks/3034-d03b539e1a3b9742.js",
+  "status": "done"
+ },
+ {
+  "url": "https://strategy.com/_next/static/chunks/7382-c5cb9c5f05393c8b.js",
+  "status": "done"
+ },
+ {
+  "url": "https://strategy.com/_next/static/chunks/9599-b3d4514050a4695f.js",
+  "status": "done"
+ },
+ {
+  "url": "https://strategy.com/_next/static/chunks/4354-598c6f0d3791a211.js",
+  "status": "done"
+ },
+ {
+  "url": "https://strategy.com/_next/static/chunks/9636-096de22d2d079739.js",
+  "status": "done"
+ },
+ {
+  "url": "https://strategy.com/_next/static/chunks/8858-4657abfa8d3bac10.js",
+  "status": "done"
+ },
+ {
+  "url": "https://strategy.com/_next/static/chunks/pages/index-52d7c58885c58313.js",
+  "status": "new"
+ },
+ {
+  "url": "https://strategy.com/_next/static/6a89be739e084d4c24134883/_buildManifest.js",
+  "status": "new"
+ },
+ {
+  "url": "https://strategy.com/_next/static/6a89be739e084d4c24134883/_ssgManifest.js",
+  "status": "new"
+ },
+ {
+  "url": "https://microstrategy.com/_next/static/chunks/polyfills-42372ed130431b0a.js",
+  "status": "new"
+ },
+ {
+  "url": "https://microstrategy.com/_next/static/chunks/webpack-6df340c3f4ac389c.js",
+  "status": "new"
+ },
+ {
+  "url": "https://microstrategy.com/_next/static/chunks/framework-945b357d4a851f4b.js",
+  "status": "new"
+ },
+ {
+  "url": "https://microstrategy.com/_next/static/chunks/main-664db44e294ef286.js",
+  "status": "new"
+ },
+ {
+  "url": "https://microstrategy.com/_next/static/chunks/pages/_app-9ae4a40f97f34897.js",
+  "status": "new"
+ },
+ {
+  "url": "https://microstrategy.com/_next/static/chunks/2729-b91bb7aa21172e7b.js",
+  "status": "new"
+ },
+ {
+  "url": "https://microstrategy.com/_next/static/chunks/5041-5d9254ddcd13ea28.js",
+  "status": "new"
+ },
+ {
+  "url": "https://microstrategy.com/_next/static/chunks/7913-883b864399cdb3eb.js",
+  "status": "new"
+ },
+ {
+  "url": "https://microstrategy.com/_next/static/chunks/7824-68b7bdca7ecf55c1.js",
+  "status": "new"
+ },
+ {
+  "url": "https://microstrategy.com/_next/static/chunks/3821-0ba335756e48d11a.js",
+  "status": "new"
+ },
+ {
+  "url": "https://microstrategy.com/_next/static/chunks/1812-e5ccc1a07f821884.js",
+  "status": "new"
+ },
+ {
+  "url": "https://microstrategy.com/_next/static/chunks/451-74020fd05aee8764.js",
+  "status": "new"
+ },
+ {
+  "url": "https://microstrategy.com/_next/static/chunks/8734-7dc8f3d08e539bcb.js",
+  "status": "new"
+ },
+ {
+  "url": "https://microstrategy.com/_next/static/chunks/3969-0def654bb16609e3.js",
+  "status": "new"
+ },
+ {
+  "url": "https://microstrategy.com/_next/static/chunks/209-6ce3191ced0bb6f6.js",
+  "status": "new"
+ },
+ {
+  "url": "https://microstrategy.com/_next/static/chunks/1693-fa3a81033b6fcfb6.js",
+  "status": "new"
+ },
+ {
+  "url": "https://microstrategy.com/_next/static/chunks/8384-f29c4831d2174a51.js",
+  "status": "new"
+ },
+ {
+  "url": "https://microstrategy.com/_next/static/chunks/pages/index-f99f6a493b5b7460.js",
+  "status": "new"
+ },
+ {
+  "url": "https://microstrategy.com/_next/static/6a884b1f5a677e96f5d12e3a/_buildManifest.js",
+  "status": "new"
+ },
+ {
+  "url": "https://microstrategy.com/_next/static/6a884b1f5a677e96f5d12e3a/_ssgManifest.js",
+  "status": "new"
+ }
+]

@@ -119,3 +119,21 @@
 ## jsrecon 2026-08-23 13:10:20 UTC
 
 ## jsrecon 2026-08-23 13:43:59 UTC
+
+## jsrecon 2026-08-23 14:00:14 UTC
+- https://strategy.com/_next/static/chunks/polyfills-42372ed130431b0a.js (112594B, 0 eps, 0 maps, 0 key-hits)
+- https://cdn.cookielaw.org/scripttemplates/otSDKStub.js (26840B, 0 eps, 0 maps, 0 key-hits)
+- https://strategy.com/_next/static/chunks/webpack-16aa9dcec18a8d4e.js (6662B, 0 eps, 0 maps, 0 key-hits)
+- https://strategy.com/_next/static/chunks/framework-945b357d4a851f4b.js (140001B, 0 eps, 0 maps, 0 key-hits)
+- https://strategy.com/_next/static/chunks/main-664db44e294ef286.js (126356B, 0 eps, 0 maps, 0 key-hits)
+- https://strategy.com/_next/static/chunks/pages/_app-299ae8606b3e994b.js (1123855B, 1 eps, 0 maps, 0 key-hits)
+    EP /api/auth/token
+- https://strategy.com/_next/static/chunks/5930-96532bec1e734763.js (6853B, 0 eps, 0 maps, 0 key-hits)
+- https://strategy.com/_next/static/chunks/6191-bbc03115d87714e8.js (25100B, 0 eps, 0 maps, 0 key-hits)
+- https://strategy.com/_next/static/chunks/323-e2e12b29666cd2b7.js (23880B, 0 eps, 0 maps, 0 key-hits)
+- https://strategy.com/_next/static/chunks/3034-d03b539e1a3b9742.js (9192B, 0 eps, 0 maps, 0 key-hits)
+- https://strategy.com/_next/static/chunks/7382-c5cb9c5f05393c8b.js (7137B, 0 eps, 0 maps, 0 key-hits)
+- https://strategy.com/_next/static/chunks/9599-b3d4514050a4695f.js (25450B, 0 eps, 0 maps, 0 key-hits)
+- https://strategy.com/_next/static/chunks/4354-598c6f0d3791a211.js (13763B, 0 eps, 0 maps, 0 key-hits)
+- https://strategy.com/_next/static/chunks/9636-096de22d2d079739.js (18604B, 0 eps, 0 maps, 0 key-hits)
+- https://strategy.com/_next/static/chunks/8858-4657abfa8d3bac10.js (39678B, 0 eps, 0 maps, 0 key-hits)
