@@ -250,3 +250,12 @@
 ## jsrecon 2026-08-24 11:38:14 UTC
 
 ## jsrecon 2026-08-24 11:58:59 UTC
+
+## jsrecon 2026-08-24 12:48:42 UTC
+- https://strategy.com/_next/static/chunks/webpack-9141dca6f8ff27fb.js (6662B, 0 eps, 0 maps, 0 key-hits)
+- https://strategy.com/_next/static/chunks/6191-4da57c15aab92c10.js (25100B, 0 eps, 0 maps, 0 key-hits)
+- https://strategy.com/_next/static/chunks/9636-71d628db922b81e9.js (18604B, 0 eps, 0 maps, 0 key-hits)
+- https://strategy.com/_next/static/chunks/8858-4176a1e598927d4e.js (40068B, 0 eps, 0 maps, 0 key-hits)
+- https://strategy.com/_next/static/chunks/pages/index-4a725e6ef1793e8b.js (24023B, 0 eps, 0 maps, 0 key-hits)
+- https://strategy.com/_next/static/6a8c35385a677e96f5d1ab49/_buildManifest.js (12859B, 0 eps, 0 maps, 0 key-hits)
+- https://strategy.com/_next/static/6a8c35385a677e96f5d1ab49/_ssgManifest.js (539B, 0 eps, 0 maps, 0 key-hits)

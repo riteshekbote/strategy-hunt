@@ -150,5 +150,33 @@
  {
   "url": "https://microstrategy.com/_next/static/6a884b1f5a677e96f5d12e3a/_ssgManifest.js",
   "status": "done"
+ },
+ {
+  "url": "https://strategy.com/_next/static/chunks/webpack-9141dca6f8ff27fb.js",
+  "status": "done"
+ },
+ {
+  "url": "https://strategy.com/_next/static/chunks/6191-4da57c15aab92c10.js",
+  "status": "done"
+ },
+ {
+  "url": "https://strategy.com/_next/static/chunks/9636-71d628db922b81e9.js",
+  "status": "done"
+ },
+ {
+  "url": "https://strategy.com/_next/static/chunks/8858-4176a1e598927d4e.js",
+  "status": "done"
+ },
+ {
+  "url": "https://strategy.com/_next/static/chunks/pages/index-4a725e6ef1793e8b.js",
+  "status": "done"
+ },
+ {
+  "url": "https://strategy.com/_next/static/6a8c35385a677e96f5d1ab49/_buildManifest.js",
+  "status": "done"
+ },
+ {
+  "url": "https://strategy.com/_next/static/6a8c35385a677e96f5d1ab49/_ssgManifest.js",
+  "status": "done"
  }
 ]
