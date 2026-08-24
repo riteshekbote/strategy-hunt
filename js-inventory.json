@@ -178,5 +178,13 @@
  {
   "url": "https://strategy.com/_next/static/6a8c35385a677e96f5d1ab49/_ssgManifest.js",
   "status": "done"
+ },
+ {
+  "url": "https://microstrategy.com/_next/static/6a8c54ef33afc3ebcdd6e943/_buildManifest.js",
+  "status": "done"
+ },
+ {
+  "url": "https://microstrategy.com/_next/static/6a8c54ef33afc3ebcdd6e943/_ssgManifest.js",
+  "status": "done"
  }
 ]
