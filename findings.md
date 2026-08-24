@@ -281,3 +281,7 @@
 ## jsrecon 2026-08-24 17:58:51 UTC
 
 ## jsrecon 2026-08-24 18:38:38 UTC
+
+## jsrecon 2026-08-24 19:16:14 UTC
+- https://microstrategy.com/_next/static/6a8c96fe47e5b1141e9ed847/_buildManifest.js (480540B, 0 eps, 0 maps, 0 key-hits)
+- https://microstrategy.com/_next/static/6a8c96fe47e5b1141e9ed847/_ssgManifest.js (480540B, 0 eps, 0 maps, 0 key-hits)
