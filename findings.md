@@ -373,3 +373,9 @@
 - https://microstrategy.com/_next/static/6a8da9fb47e5b1141e9f186b/_ssgManifest.js (480540B, 0 eps, 0 maps, 0 key-hits)
 
 ## jsrecon 2026-08-25 16:07:02 UTC
+
+## jsrecon 2026-08-25 16:51:23 UTC
+- https://strategy.com/_next/static/chunks/webpack-390f4c8ea60e5a1d.js (6662B, 0 eps, 0 maps, 0 key-hits)
+- https://strategy.com/_next/static/chunks/9636-bfbd5e1ec3d2687b.js (18681B, 0 eps, 0 maps, 0 key-hits)
+- https://strategy.com/_next/static/6a8dbe589e084d4c2414002c/_buildManifest.js (13003B, 0 eps, 0 maps, 0 key-hits)
+- https://strategy.com/_next/static/6a8dbe589e084d4c2414002c/_ssgManifest.js (539B, 0 eps, 0 maps, 0 key-hits)
