@@ -361,3 +361,13 @@
 ## jsrecon 2026-08-25 13:57:54 UTC
 
 ## jsrecon 2026-08-25 14:41:14 UTC
+
+## jsrecon 2026-08-25 15:26:52 UTC
+- https://strategy.com/_next/static/chunks/webpack-4db3bec11a331017.js (6662B, 0 eps, 0 maps, 0 key-hits)
+- https://strategy.com/_next/static/chunks/5896-256304443b323f8d.js (6729B, 0 eps, 0 maps, 0 key-hits)
+- https://strategy.com/_next/static/chunks/9636-292a16173138f46d.js (18681B, 0 eps, 0 maps, 0 key-hits)
+- https://strategy.com/_next/static/chunks/pages/index-3ad93810adf00b8d.js (31013B, 0 eps, 0 maps, 0 key-hits)
+- https://strategy.com/_next/static/6a8dae9f33afc3ebcdd73c6b/_buildManifest.js (13003B, 0 eps, 0 maps, 0 key-hits)
+- https://strategy.com/_next/static/6a8dae9f33afc3ebcdd73c6b/_ssgManifest.js (539B, 0 eps, 0 maps, 0 key-hits)
+- https://microstrategy.com/_next/static/6a8da9fb47e5b1141e9f186b/_buildManifest.js (480540B, 0 eps, 0 maps, 0 key-hits)
+- https://microstrategy.com/_next/static/6a8da9fb47e5b1141e9f186b/_ssgManifest.js (480540B, 0 eps, 0 maps, 0 key-hits)
