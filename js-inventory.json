@@ -314,5 +314,13 @@
  {
   "url": "https://microstrategy.com/_next/static/6a8de0b947e5b1141e9f3869/_ssgManifest.js",
   "status": "done"
+ },
+ {
+  "url": "https://microstrategy.com/_next/static/6a8dfb6b33afc3ebcdd7634e/_buildManifest.js",
+  "status": "done"
+ },
+ {
+  "url": "https://microstrategy.com/_next/static/6a8dfb6b33afc3ebcdd7634e/_ssgManifest.js",
+  "status": "done"
  }
 ]
