@@ -379,3 +379,7 @@
 - https://strategy.com/_next/static/chunks/9636-bfbd5e1ec3d2687b.js (18681B, 0 eps, 0 maps, 0 key-hits)
 - https://strategy.com/_next/static/6a8dbe589e084d4c2414002c/_buildManifest.js (13003B, 0 eps, 0 maps, 0 key-hits)
 - https://strategy.com/_next/static/6a8dbe589e084d4c2414002c/_ssgManifest.js (539B, 0 eps, 0 maps, 0 key-hits)
+
+## jsrecon 2026-08-25 17:18:55 UTC
+- https://microstrategy.com/_next/static/6a8dcb7a9e084d4c2414091b/_buildManifest.js (480540B, 0 eps, 0 maps, 0 key-hits)
+- https://microstrategy.com/_next/static/6a8dcb7a9e084d4c2414091b/_ssgManifest.js (480540B, 0 eps, 0 maps, 0 key-hits)
