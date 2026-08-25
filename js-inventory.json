@@ -298,5 +298,21 @@
  {
   "url": "https://microstrategy.com/_next/static/6a8dcb7a9e084d4c2414091b/_ssgManifest.js",
   "status": "done"
+ },
+ {
+  "url": "https://strategy.com/_next/static/6a8de0b39e084d4c24140f7a/_buildManifest.js",
+  "status": "done"
+ },
+ {
+  "url": "https://strategy.com/_next/static/6a8de0b39e084d4c24140f7a/_ssgManifest.js",
+  "status": "done"
+ },
+ {
+  "url": "https://microstrategy.com/_next/static/6a8de0b947e5b1141e9f3869/_buildManifest.js",
+  "status": "done"
+ },
+ {
+  "url": "https://microstrategy.com/_next/static/6a8de0b947e5b1141e9f3869/_ssgManifest.js",
+  "status": "done"
  }
 ]
